@@ -1,0 +1,4 @@
+1.	Vlada : 10,
+2.	Denis": 23,
+3.	Nikita": 17
+
