@@ -1,0 +1,13 @@
+Структура баг репорта 
+
+1. Короткое описание (Summary)
+2. Проект (Project)
+3. Компонент приложения (Component)
+4. Номер версии (Version)
+5. Серьзность (Severity)
+6. Приоритет (Priority)
+7. Шаги воспроизведеия (Steps Result)
+8. Фактический результат (Actual Result)
+9. Ожидаемый результат (Expected Result)
+10. Дополнения (Additional information)
+
